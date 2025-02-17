@@ -1,0 +1,5 @@
+print('I will compute the hypotenuse of a right triangle.')
+print('But first, you must tell me the lengths of the legs.')
+first_leg = int(input('What is the length of the first leg?'))
+second_leg= int(input('What is the length of the second leg?'))
+print(f'The length of the hypotenuse is {((first_leg**2)+(second_leg**2))**0.5})')
