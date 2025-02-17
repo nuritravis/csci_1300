@@ -1,0 +1,22 @@
+---------------------------------------
+Author: nuri.travis@slu.edu
+
+---------------------------------------
+Approximate number of hours spent: 7
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/
+https://www.w3schools.com/python/ref_string_split.asp
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+
+Program recieves user input of a DNA sequence and a marker
+it then uses those inputs to return the structure of the sequence and the mutated form of the sequence.
+
+no known bugs
+---------------------------------------
+Other comments or response program-specific questions:
+
+---------------------------------------
